@@ -1,4 +1,6 @@
 # Secure Enterprise Network Infrastructure Simulation
+![Network Topology](topology.png)
+
 
 A secure multi-subnet network architecture designed for a mid-sized corporate branch using **Cisco Packet Tracer**. 
 
